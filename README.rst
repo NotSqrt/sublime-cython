@@ -10,9 +10,9 @@ Installation
 1. Clone this repo as Cython
 2. Put the contents of this repo directly inside:
 
- - OS X: ~/Library/Application Support/Sublime Text 2/Packages/
- - Windows: %APPDATA%/Sublime Text 2/Packages/
- - Linux: ~/.config/sublime-text-2/Packages
+- OS X: ~/Library/Application Support/Sublime Text 2/Packages/
+- Windows: %APPDATA%/Sublime Text 2/Packages/
+- Linux: ~/.config/sublime-text-2/Packages
 
 Snippets
 --------
@@ -22,5 +22,6 @@ Python-related snippets
 =============== ==============================
  Abbreviation        Result
 =============== ==============================
- .                self.
- __               __name__
+.                self.
+\_\_             __name__
+=============== ==============================
