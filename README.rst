@@ -25,3 +25,9 @@ Python-related snippets
 .                self.
 \_\_             __name__
 =============== ==============================
+
+
+Acknowledgements
+----------------
+
+This project is a repackaging of the TextMate bundle : `svn repo <http://svn.textmate.org/trunk/Review/Bundles/Cython.tmbundle/>`_.
